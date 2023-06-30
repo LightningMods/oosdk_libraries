@@ -97,7 +97,7 @@ Curl_freeaddrinfo(Curl_addrinfo *cahead)
 }
 
 
-#ifdef 1
+#if 1
 /*
  * Curl_getaddrinfo_ex()
  *
